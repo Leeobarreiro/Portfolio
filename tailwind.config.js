@@ -14,7 +14,7 @@ module.exports = {
       background: 'rgb(var(--background))',
       foreground: 'rgb(var(--foreground))',
       muted: 'rgb(var(--muted))',
-      accent: 'rgb(var(--accent))'
+      accent: 'rgb(var(--accent))',
     }
   
   },
