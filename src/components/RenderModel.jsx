@@ -12,7 +12,7 @@ const RenderModel = ({children, className}) => {
     >
         <Suspense fallback = {null}>
             {children}
-
+    
         </Suspense>
 
     </Canvas>
